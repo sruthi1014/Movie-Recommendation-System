@@ -13,7 +13,7 @@
 ### Technologies
 Project is created with:
 * Python
-**Packages**  
+* **Packages**  PySpark, Pandas
 * Explicit  **Datasource**
 * movie lens dataset
 
